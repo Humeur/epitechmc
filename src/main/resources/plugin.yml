@@ -1,0 +1,5 @@
+name: EpitechMC
+version: 1.0
+main: fr.livio.epitechmc.EpitechPlugin
+author: Livio x Epitech
+description: Récupérer les infos de l'intra sur Minecraft
